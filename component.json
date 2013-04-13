@@ -1,0 +1,13 @@
+{
+  "name": "ngInfiniteScroll",
+  "version": "1.0.0",
+  "main": [
+    "./build/ng-infinite-scroll",
+    "./build/ng-infinite-scroll"
+  ],
+  "ignore": [
+    "./src",
+    "./test",
+    "Gruntfile.coffee"
+  ]
+}
